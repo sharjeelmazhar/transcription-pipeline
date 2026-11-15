@@ -1,0 +1,13 @@
+faster-whisper==1.2.1
+fastapi==0.163.1
+uvicorn[standard]==0.54.0
+python-multipart==0.0.33
+httpx==0.28.1
+numpy>=1.26
+
+# GPU only: cuBLAS + cuDNN for ctranslate2 (skip on CPU machines)
+# nvidia-cublas-cu12
+# nvidia-cudnn-cu12==9.*
+
+# tests
+pytest
