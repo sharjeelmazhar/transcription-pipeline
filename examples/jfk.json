@@ -1,0 +1,24 @@
+{
+  "language": "en",
+  "duration": 11.0,
+  "engine": "faster-whisper",
+  "model": "small",
+  "processing_seconds": 1.06,
+  "source": {
+    "file": "jfk.flac",
+    "format": "flac",
+    "codec": "flac",
+    "sample_rate": 44100,
+    "channels": 2
+  },
+  "text": "And so my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 10.58,
+      "text": "And so my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "confidence": 0.818
+    }
+  ]
+}

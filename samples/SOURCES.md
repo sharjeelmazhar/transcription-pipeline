@@ -1,0 +1,2 @@
+- `jfk.flac`: 11 s from JFK's 1961 inaugural address ("ask not..."). Taken from the openai/whisper repo's test files. Public domain.
+- `jfk_rice_moon_speech_1962.mp3`: JFK, "We choose to go to the Moon", Rice University, 12 September 1962 (17:48). From archive.org. Public domain (US federal government work).
